@@ -2,8 +2,6 @@
 
 This README is based on the original **Snake User Manual** made for the project. The manual already explains the game well, so I used it as the main structure instead of replacing it with a generic software README.
 
-**Project team:** Jenna Gal, Michael Leone, and Devansh Bhutani
-
 [Open the original Snake User Manual](<Snake User Manual.pdf>)
 
 ## History of the game
